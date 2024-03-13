@@ -1,5 +1,5 @@
-### Typescript advanced concepts
- # Decorators
- # Mixins
- # Iterables
- # Namespaces
+# Typescript advanced concepts
+ ### Decorators
+ ### Mixins
+ ### Iterables
+ ### Namespaces
